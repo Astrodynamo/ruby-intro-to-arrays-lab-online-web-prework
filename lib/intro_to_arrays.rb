@@ -21,15 +21,15 @@ def last_element (array)
 end
 
 #ruby methods to return values
-def first_element_with_array_methods
+def first_element_with_array_methods (array)
   
 end
 
-def last_element_with_array_methods
+def last_element_with_array_methods (array)
   
 end
 
 #ruby methods to get information
-def length_of_array
+def length_of_array (array)
   
 end
