@@ -31,5 +31,5 @@ end
 
 #ruby methods to get information
 def length_of_array (array)
-  
+  array.length
 end
